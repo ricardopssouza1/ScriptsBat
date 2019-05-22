@@ -3,4 +3,4 @@
 
 **Comandos BAT para o dia a dia**
 
-- [Conexão SQL SERVER] (https://github.com/teste.bat)
+- [Conexão SQL SERVER] (https://github.com/ricardopssouza1/ScriptsBat/blob/master/ScriptManutencao.bat)
